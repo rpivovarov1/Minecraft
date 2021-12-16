@@ -3,16 +3,17 @@
 <body style="background-color :black; font-family: sans-serif">
 <a href="#цены">ЦЕНЫ</a>////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<a href="#детальніше">БОЛЬШЕ ИНФОРМАЦИИ</a>
 <h1 style="text-align: center; header">
-<img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/header/Minecraft_Core-Logo.png"width="400px" height="50px"/>
+<img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/header/Minecraft_Core-Logo.png"width="400px" height="65px"/>
 </h1>
 <main><h2 style="background-color: green; font-size: 40px">Наданый момент сушествует несколько типов тмаинкрафта:</h2>
 <h2 style="background-color: green; font-size: 20px">
-<p>1)Тип всем известный<a href="https://www.minecraft.net/about-minecraft"> Minicraft  Jawa Edition</a>
+<p>1)Тип всем известный<b><a href="https://www.minecraft.net/about-minecraft"> Minicraft  Jawa Edition</a></b> 
 <p></p><img src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-Java_Keyart_255x383.jpg">
-</p>2)Тип не менее известный <a href="https://www.minecraft.net/store/minecraft-windows10"> Minicraft Bedrock Edition</a>
+</p>2)Тип не менее известный <b><a href="https://www.minecraft.net/store/minecraft-windows10">Minicraft Bedrock Edition</a></b> 
 <p></p><img src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-xbox-one.jpg">
-<p>3)тип его обычно путают с Bedrock Edition это<a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"> Minicraft PE</a><p></p><img src="https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw">
-</p>4)Тип мало известный <a href="https://www.minecraftdungeons.net/ru-ru/">Minicraft Dangens</a>
+<p>3)тип его обычно путают с Bedrock Edition это<b><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"> Minicraft PE</a></b> 
+<p></p><img src="https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw">
+</p>4)Тип мало известный <b><a href="https://www.minecraftdungeons.net/ru-ru/">Minicraft Dangens</a></b> 
 <p></p><img src="https://www.minecraft.net/content/dam/games/dungeons/key-art/boxart-standardedition.jpg"></h2>
 <h3>
 <table style="background-color :green; border:5px solid brown; font-size: 20px" id="цены">
